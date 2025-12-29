@@ -52,7 +52,12 @@ A **centralized SQL Data Warehouse** was built to:
 This separation ensures:
 - Clear data ownership  
 - Easy debugging  
-- Scalable ETL pipelines  
+- Scalable ETL pipelines
+---
+
+<p align="center">
+  <img src="Images/Picture1.png" width="80%" />
+</p>
 
 ---
 
