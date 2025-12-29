@@ -96,12 +96,9 @@ The Silver layer focuses on **data quality, consistency, and standardization**.
 - Window Functions  
 - Data validation rules  
 
-### Stored Procedure Execution
-```sql
-EXEC bronze.load_bronze;
----
 
-## 🥇 Gold Layer — Business-Ready Analytics
+
+### 🥇 Gold Layer — Business-Ready Analytics
 
 ### 🎯 Purpose
 The **Gold Layer** represents the **final, analytics-optimized datasets** designed for direct consumption by:
