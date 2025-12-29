@@ -23,7 +23,6 @@ These tables are consumed by:
 |-----------|------|-------------|
 | dim_customer | Dimension | Customer master with demographics |
 | dim_product | Dimension | Product hierarchy & attributes |
-| dim_date | Dimension | Calendar attributes |
 | fact_sales | Fact | Sales transactions & metrics |
 # 🧍‍♂️ dim_customer
 
